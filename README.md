@@ -7,3 +7,6 @@ Edit database credentials in `server.php` line 10
 
 ## Compatibility
 Constantly updating but currently mainly tested on Ubuntu servers with most features also having Windows compatibilities (as Windows has different permissions and commands)
+
+### NOTE
+This repository may not be up to date with the current version but I will try update as I add more to it.
